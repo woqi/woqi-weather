@@ -1,0 +1,22 @@
+{
+  "name": "woqi-weather",
+  "version": "1.0.2",
+  "description": "a weather cli",
+  "main": "index.js",
+  "bin": {
+    "weather": "bin.js"
+  },
+  "scripts": {
+    "test": "node ./bin"
+  },
+  "keywords": [
+    "weather",
+    "node"
+  ],
+  "author": "woqi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "china-city-weather": "^1.0.1"
+  }
+}
