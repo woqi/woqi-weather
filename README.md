@@ -1,4 +1,4 @@
-####这是一个天气工具
+#### 这是一个天气工具
 
 安装
 
@@ -15,3 +15,5 @@
 安装效果如下：
 
 <img src="https://upload-images.jianshu.io/upload_images/6194732-ae5790551b3ae2a3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/646">
+
+下载地址：https://www.npmjs.com/package/woqi-weather
